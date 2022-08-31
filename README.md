@@ -1,2 +1,3 @@
 # HelloWorld
-My first repo for GitHub
+First Entry on GitHub
+:potato: nothing beats a potato. :potato:
